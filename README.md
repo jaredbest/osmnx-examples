@@ -11,9 +11,9 @@ OSMnx is a Python package to work with street networks: retrieve, model, analyze
 1. Download and install Docker.
 2. Open Command Prompt and change directories to a folder containing a Jupyter notebook that you would like to run, such as one of these OSMnx examples.
 3. On Windows OS, run the following command:
-   '''
+   ```
    docker run --rm -it --name osmnx -p 8888:8888 -v "%cd%":/home/jovyan/work gboeing/osmnx
-   '''
+   ```
 4. Visit http://localhost:8888 in your browser to launch JupyterLab.
 
 ### More info:
