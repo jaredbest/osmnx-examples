@@ -1,6 +1,6 @@
 # OSMnx Examples: London Boroughs
 
-![London_Street_Orientations](https://raw.githubusercontent.com/jaredbest/osmnx-examples-london-boroughs/images/london_street_orientations.png)
+![London_Street_Orientations](https://raw.githubusercontent.com/jaredbest/osmnx-examples-london-boroughs/master/images/london_street_orientations.png)
 
 You can run these OSMnx example notebooks locally with the official OSMnx [docker image](https://hub.docker.com/r/gboeing/osmnx).
 
