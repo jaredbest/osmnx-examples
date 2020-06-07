@@ -18,7 +18,7 @@ OSMnx is a Python package to work with street networks: retrieve, model, analyze
    ```
 4. Visit http://localhost:8888 in your browser to launch JupyterLab.
 
-### More info:
+### More Information
 
 - [Overview of OSMnx](https://geoffboeing.com/2016/11/osmnx-python-street-networks/)
 - [GitHub repo](https://github.com/gboeing/osmnx)
